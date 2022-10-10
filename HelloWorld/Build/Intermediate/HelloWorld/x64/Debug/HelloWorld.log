@@ -1,0 +1,3 @@
+﻿  MainGame.cpp
+C:\Users\oriny\Desktop\playbuffer-HelloWorld\HelloWorld\MainGame.cpp(59,28): warning C4100: 'elapsedTime': biçimsel parametre başvurusu kaldırıldı
+  HelloWorld.vcxproj -> C:\Users\oriny\Desktop\playbuffer-HelloWorld\HelloWorld\Build\x64\Debug\HelloWorld.exe
